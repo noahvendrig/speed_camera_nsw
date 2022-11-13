@@ -1,5 +1,6 @@
 from kivy.lang import Builder
 from plyer import gps
+
 from kivy.app import App
 from kivy.properties import StringProperty
 from kivy.clock import mainthread
